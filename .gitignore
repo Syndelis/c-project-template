@@ -1,0 +1,9 @@
+# Binaries
+/obj/
+main
+*.o
+*.a
+
+# VS Code files
+.vscode/*.log
+.vscode/settings.json
