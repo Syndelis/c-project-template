@@ -1,3 +1,6 @@
 [submodule "utils"]
 	path = utils
 	url = https://github.com/Syndelis/windows-makefile-utils
+[submodule "lib/cr"]
+	path = lib/cr
+	url = https://github.com/Syndelis/cr

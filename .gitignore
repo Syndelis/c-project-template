@@ -1,6 +1,7 @@
 # Binaries
 /obj/
 main
+*.so
 *.o
 *.a
 
